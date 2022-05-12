@@ -1,0 +1,11 @@
+.input_field {
+  padding: 1rem;
+  width: 100%;
+}
+
+.input_btn {
+  padding: 1rem 3rem;
+  background-color: rgb(80, 132, 205);
+  border: none;
+  color: white;
+}
